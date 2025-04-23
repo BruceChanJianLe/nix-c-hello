@@ -2,7 +2,7 @@
   description = "A simple hello c program built with Nix";
 
   inputs = {
-    nixpkgs.url = "nixpkgs/nixos-21.05";
+    nixpkgs.url = "nixpkgs/nixos-24.05";
   };
 
   outputs = { self, nixpkgs }:
